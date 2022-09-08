@@ -1,0 +1,18 @@
+{
+  "id": "322d5ca4-df24-465f-aae2-183bc1fa8366",
+  "collaborators": [
+    {
+      "id": "02b657b8-27ca-4bb8-be8c-26d72ba28da7",
+      "role": "developer",
+      "githubUsername": "LostInStatic"
+    }
+  ],
+  "description": "",
+  "name": "tst00001",
+  "packageManager": "npm",
+  "useSass": false,
+  "useTypescript": false,
+  "creationDate": 1662636299544,
+  "tags": [],
+  "snippets": []
+}
